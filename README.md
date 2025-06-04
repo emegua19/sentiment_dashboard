@@ -1,6 +1,3 @@
-### `README.md`
-
-````markdown
 #  AI Sentiment Dashboard
 
 A simple yet powerful AI dashboard built with **Streamlit** and **Hugging Face Transformers**, designed to analyze sentiment from custom input or live news headlines.
@@ -109,8 +106,3 @@ MIT License. Feel free to fork and remix!
 
 Built by [Yitbarek Geletaw](https://github.com/emegua19) — powered by caffeine & curiosity
 
-```
-
----
-
-```
