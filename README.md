@@ -1,7 +1,3 @@
-Dashboard project**:
-
----
-
 ### `README.md`
 
 ````markdown
